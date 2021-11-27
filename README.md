@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hostyyOperator
+- 👋 Hi, I’m GhostOperator
 - 👀 Content creator and music editor
 - 🌱 Discord bot maker
 - 💞️ I’m looking to collaborate on YouTube Videos
