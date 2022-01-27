@@ -55,4 +55,4 @@
 [discord]: https://dsc.gg/ghostworld
 [twitter]: https://twitter.com/ghostubexxl
 [instagram]: https://instagram.com/ghostubexxl
-[mail]: htps:/mailto:contact@richghosty.xyz
+[mail]: https:/mailto:contact@richghosty.xyz
